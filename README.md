@@ -56,6 +56,14 @@ print("Hello World")
 </script>
 ```
 
+```c
+#include <stdio.h>
+int main() {
+  printf("Hello, World!!");
+  return 0;
+}
+```
+
 <https://www.google.com/>
 
 [구글](https://www.google.com/)
